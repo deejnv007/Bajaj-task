@@ -28,7 +28,7 @@ exports.postLogic = (req, res, next) => {
     
         res.send({
             "is_success": true,
-            "user_id": "Deepansu_Gupta_09081999",
+            "user_id": "Deepansu_Gupta_13061998",
             "email": "dkgupta8691@gmail.com",
             "roll_number": "0101CS191041",
             "numbers": numArray,
